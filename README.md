@@ -1,0 +1,1 @@
+The repository contains powershell scripts and modules for automating administrative task for Microsoft 365 using Microsoft Graph APIs
